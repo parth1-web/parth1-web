@@ -217,6 +217,46 @@ An ASP.NET Core MVC client application that consumes the ECommerceSolution REST 
 
 ---
 
+## 🏪 Cafe Inventory Management System
+
+A production-style cafe and restaurant inventory management platform built with .NET 10, ASP.NET Core Web API, ASP.NET Core MVC, Entity Framework Core, and PostgreSQL.
+
+### Key Features
+
+- JWT authentication and role-based authorization
+- Ingredient, category, unit, and supplier management
+- Purchase orders and stock receiving workflow
+- Inventory ledger and stock movement tracking
+- Batch and expiry management
+- Waste, adjustment, and stock transfer operations
+- Menu items, recipes, and order management
+- Inventory, purchasing, waste, consumption, and food-cost reports
+- CSV and PDF report exports
+- Dashboard analytics and notifications
+- Audit logging
+- Docker Compose deployment
+- Unit and integration testing
+- GitHub Actions CI pipeline
+
+### Architecture
+
+```text
+ASP.NET Core MVC Frontend
+            ↓
+      Typed API Client
+            ↓
+   ASP.NET Core Web API
+            ↓
+ Application Layer
+            ↓
+    Domain Layer
+            ↓
+ Infrastructure Layer
+            ↓
+ Entity Framework Core
+            ↓
+       PostgreSQL
+
 # 🧠 Engineering Practices
 
 When building backend applications, I focus on:
