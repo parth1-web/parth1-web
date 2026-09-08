@@ -257,7 +257,7 @@ ASP.NET Core MVC Frontend
             ↓
        PostgreSQL
 
-# 🧠 Engineering Practices
+🧠 Engineering Practices
 
 When building backend applications, I focus on:
 
@@ -303,7 +303,7 @@ When building backend applications, I focus on:
 
 ---
 
-# 📚 Currently Learning
+📚 Currently Learning
 
 I'm currently strengthening my knowledge in:
 
@@ -319,7 +319,7 @@ I'm currently strengthening my knowledge in:
 
 ---
 
-# 🎯 Career Goal
+🎯 Career Goal
 
 I’m looking for opportunities where I can contribute as a **.NET Backend Developer / Software Developer Intern** while continuing to grow through real-world engineering challenges.
 
@@ -335,7 +335,6 @@ Cloud & DevOps
 System Design
 ```
 
----
 
 # 🤝 Connect With Me
 
